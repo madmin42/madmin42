@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-## ✨[For my CI/CD I have my selfhosted Gitea instance @ git.mattmor.in where I have all my code, [go there please](https://git.mattmor.in)✨ 
+## ✨For my CI/CD I have my selfhosted Gitea instance @ git.mattmor.in where I have all my code, [go there please](https://git.mattmor.in)✨ 
 
 If you'd like to get to know me better, here is my [portfolio and blog - www.mattmor.in](https://mattmor.in)
 
