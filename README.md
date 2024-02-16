@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**matthieu42morin/matthieu42morin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨[For my CI/CD I have my selfhosted Gitea instance @ git.mattmor.in where I have all my code, go there please](git.mattmor.in)✨ 
 
-Here are some ideas to get you started:
+If you'd like to get to know me better, here is my [portfolio and blog - www.mattmor.in](https://mattmor.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on several things:
+- Job Searching
+- I am systematically opting out of data-harvesting and "free" services, preferring FOSS solutions for personal use.
+- Always learning!
+
+
+🌱 I’m currently learning:
+ - Improving my systems to automate provisioning and maintenance on Azure and AWS
+ - Information theory, Physics, Philosophy
+ 
+👯 I’m looking to collaborate on DevOps, Cloud, AI projects
+
+📫 How to quickly reach me for general inquiries... telegram: @Mattmor_in ; init@mattmor.in
+  
+⚡ I am very enthusiastic for new opportunities to discuss and brainstorm novel ideas, tech, philosophy so please reach out! 
