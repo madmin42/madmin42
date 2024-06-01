@@ -16,6 +16,7 @@ jobs:
     steps:
       - name: Setup
       - uses: actions/checkout@v4
+      - run: echo using checkout
       - name: run profile summarizer
       - run: echo Making cards...
       - uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -26,8 +27,4 @@ jobs:
           # BRANCH_NAME is optional, default to main, branch name to push cards
           BRANCH_NAME: "master"
           # UTC_OFFSET is optional, default to zero
-          UTC_OFFSET: 8
-          # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
-          EXCLUDE: ""
-          # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch
-          AUTO_PUSH: true
+          UTC_OFFSET: 2
